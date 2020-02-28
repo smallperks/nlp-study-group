@@ -10,6 +10,13 @@ Navigation:
 
 ## **Week 1**
 
+0. Introductions! 
+
+## What does your current work look like? How do you plan to use NLP?
+
+--------
+## **Week 2** 
+
 1. What is NLP?
 
 - A changing field
@@ -24,6 +31,7 @@ Notebook: [What is NLP?](https://github.com/fastai/course-nlp/blob/master/1-what
 Video(s):
 - FastAI: [What is NLP?](https://www.youtube.com/watch?v=cce8ntxP_XI&list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9&index=2&t=0s)
 - [SOTA 2019](https://www.youtube.com/watch?v=YxMW0w7ojek&feature=emb_logo) 
+
 
 --------
 ## **Week 2** 
