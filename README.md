@@ -2,7 +2,7 @@
 
 Navigation:
 
-- [Week 1](##Week_1)Introductions (_Discussion: February 28, 2020_)
+- [Week 1](##Week_1) (_Discussion: February 28, 2020_)
 - [Week 2](##Week_2)
 - [Week 3](##Week_3)
 
