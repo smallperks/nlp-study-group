@@ -10,6 +10,3 @@ Goals: We are working towards mapping text to high-level categories.
 Challenges: Scaling curation of categories is difficult across specific domains.
 
 
-
-
-

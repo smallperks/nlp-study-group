@@ -2,8 +2,9 @@
 
 Navigation:
 
-- [Week 1](##Week_1) (_Discussion: February 28, 2020_)
+- [Week 1](##Week_1)Introductions (_Discussion: February 28, 2020_)
 - [Week 2](##Week_2)
+- [Week 3](##Week_3)
 
 - Other Resources
 
@@ -12,7 +13,7 @@ Navigation:
 
 0. Introductions! 
 
-## What does your current work look like? How do you plan to use NLP?
+_What does your current work look like? How do you plan to use NLP?_
 
 --------
 ## **Week 2** 
@@ -34,7 +35,7 @@ Video(s):
 
 
 --------
-## **Week 2** 
+## **Week 3** 
 
 Video(s):
 - FastAI: [Topic Modeling with SVD & NMF](https://www.youtube.com/watch?v=tG3pUwmGjsc&list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9&index=2)
