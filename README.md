@@ -51,3 +51,5 @@ Notebook:
 - Linear Algebra with code examples: https://hadrienj.github.io/tags/#linear-algebra
 
 - [FastAI Book](https://github.com/fastai/fastbook)
+
+- [A Primer in BERTology: What we know about how BERT works](https://arxiv.org/abs/2002.12327)
