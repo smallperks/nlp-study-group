@@ -53,20 +53,17 @@ Resources:
 
 ## **Other Resources**
 
+### **Books**
 - [Deep Learning Book](https://www.deeplearningbook.org/)
-
-- [Linear Algebra with code examples](https://hadrienj.github.io/tags/#linear-algebra)
-
-- [Linear Algebra Class(MIT Opencourseware)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
-
 - [FastAI Book](https://github.com/fastai/fastbook)
 
+### **Classes*
+- [Linear Algebra with code examples](https://hadrienj.github.io/tags/#linear-algebra)
+- [Linear Algebra Class(MIT Opencourseware)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
+- [FastAI: Computational Linear Algebra](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
+
+### **Articles**
 - [A Primer in BERTology: What we know about how BERT works](https://arxiv.org/abs/2002.12327)
 
-<<<<<<< HEAD
+
 - [Awesome NLP](https://github.com/keon/awesome-nlp)
-=======
-- [MIT Open Linear Algebra Course](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
-  
-- [3Blue1Brown Essence of Linear Algebra Videos](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
->>>>>>> ec513a34b1981076464b10ce0e25362d710f8d33
