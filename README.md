@@ -2,9 +2,9 @@
 
 Navigation:
 
-- [Week 1](##Week_1) (_Discussion: February 28, 2020_)
-- [Week 2](##Week_2)
-- [Week 3](##Week_3)
+- [Week 1](#Week_1) (_Discussion: February 28, 2020_)
+- [Week 2](#Week_2)
+- [Week 3](#Week_3)
 
 - Other Resources
 
@@ -50,6 +50,10 @@ Notebook:
 
 - Linear Algebra with code examples: https://hadrienj.github.io/tags/#linear-algebra
 
+- [Linear Algebra Class(MIT Opencourseware)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
+
 - [FastAI Book](https://github.com/fastai/fastbook)
 
 - [A Primer in BERTology: What we know about how BERT works](https://arxiv.org/abs/2002.12327)
+
+- [Awesome NLP](https://github.com/keon/awesome-nlp)
