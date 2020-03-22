@@ -2,16 +2,9 @@
 
 Navigation:
 
-<<<<<<< HEAD
 - [Week 1](#Week_1) (_Discussion: February 28, 2020_)
 - [Week 2](#Week_2)
 - [Week 3](#Week_3)
-=======
-- [Week 1](##Week_0) ()
-- [Week 2](##Week_1) (_Discussion: February 28, 2020_)
-- [Week 3](##Week_2) (_Discussion: March 6th, 2020, March 20th, 2020_)
-- [Other Resources](##Other_Resources)
->>>>>>> ec513a34b1981076464b10ce0e25362d710f8d33
 
 ## **Week 0**
 
@@ -57,13 +50,11 @@ Resources:
 - [Deep Learning Book](https://www.deeplearningbook.org/)
 - [FastAI Book](https://github.com/fastai/fastbook)
 
-### **Classes*
+### **Classes** 
 - [Linear Algebra with code examples](https://hadrienj.github.io/tags/#linear-algebra)
 - [Linear Algebra Class(MIT Opencourseware)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
 - [FastAI: Computational Linear Algebra](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
 
-### **Articles**
+### **Articles+**
 - [A Primer in BERTology: What we know about how BERT works](https://arxiv.org/abs/2002.12327)
-
-
 - [Awesome NLP](https://github.com/keon/awesome-nlp)
