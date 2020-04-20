@@ -44,6 +44,39 @@ Resources:
 - [A Tutorial on PCA (closely related to SVD)](https://arxiv.org/pdf/1404.1100.pdf)
 - [SVD article, explaining intuition behind factorizing to 3 different matrices](https://towardsdatascience.com/svd-8c2f72e264f)
 
+## **Week 3**
+Video(s):
+- FastAI: [Logistic Regression & Naive Bayes](https://www.youtube.com/watch?v=hp2ipC5pW4I&list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9&index=4)
+
+
+Notebook: 
+- [Logistic Regression & Naive Bayes](https://github.com/fastai/course-nlp/blob/master/3-logreg-nb-imdb.ipynb)
+
+Resources:
+- [Baysean Inference](https://towardsdatascience.com/probability-concepts-explained-bayesian-inference-for-parameter-estimation-90e8930e5348)
+
+Questions:
+- Why is it when you plot the sorted document-term matrix it shows those waves
+
+## **Week 4**
+Skipped
+
+## **Week 5**
+Video(s):
+- FastAI: [Transfer Learning](https://www.youtube.com/watch?v=PNNHaQUQqW8&list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9&index=8)
+
+Notebook: 
+- [Transfer Learning](https://github.com/fastai/course-nlp/blob/master/3-logreg-nb-imdb.ipynb)
+
+
+Resources:
+- [NLP's ImageNet Movement](https://thegradient.pub/nlp-imagenet/)
+- [Cyclical Learning Rates](https://arxiv.org/pdf/1506.01186.pdf)
+- [Stop using Word2Vec](https://multithreaded.stitchfix.com/blog/2017/10/18/stop-using-word2vec/)
+
+Questions:
+- When we pick a learning rate off the LR vs. Loss graph, we pick it halway down the descent to the lowest point. Why is that?
+
 ## **Other Resources**
 
 ### **Books**
@@ -58,3 +91,9 @@ Resources:
 ### **Articles+**
 - [A Primer in BERTology: What we know about how BERT works](https://arxiv.org/abs/2002.12327)
 - [Awesome NLP](https://github.com/keon/awesome-nlp)
+
+### **Blogs**:
+* [Distill](https://distill.pub/)
+* [OpenAI](https://openai.com/blog/microscope/)
+* [StichFix](https://multithreaded.stitchfix.com/blog/)
+* [The Gradient](https://thegradient.pub/)
