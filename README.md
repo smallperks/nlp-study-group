@@ -1,16 +1,15 @@
 # 📓 NLP Study Group 
 
-Navigation:
+Background:
+We originally started tracking the [FastAI course](https://github.com/fastai/course-nlp/). 
 
-- [Week 1](#Week_1) (_Discussion: February 28, 2020_)
-- [Week 2](#Week_2)
-- [Week 3](#Week_3)
+But because of a lack of depth, we decided instead to dissect blogs and tutorials. 
 
 ## **Week 0**
 
 Introductions! 
 
-_What does your current work look like? How do you plan to use NLP?_
+What does your current work look like? How do you plan to use NLP?
 
 --------
 ## **Week 1** 
@@ -77,6 +76,41 @@ Resources:
 Questions:
 - When we pick a learning rate off the LR vs. Loss graph, we pick it halway down the descent to the lowest point. Why is that?
 
+## **Week 6: Word2Vec**
+
+Blogs:
+* [Word Embeddings - Part 1: Intro](https://ruder.io/word-embeddings-1/)
+* [Word Embeddings - Part 2: Approximating SoftMax](https://ruder.io/word-embeddings-softmax/index.html)
+
+## **Week 7: Word2Vec**
+* [Word Embeddings - Part 3: Secret Ingredients of Word2Vec](https://ruder.io/secret-word2vec/index.html)
+* [Word Embeddings - Part 5: Future Trends](https://ruder.io/word-embeddings-2017/index.html)
+
+Optional:
+* [The illustrated Word2Vec](http://jalammar.github.io/illustrated-word2vec/)
+
+## **Week 8: RNNs, LSTMs, GRUs**
+* [The Unreasonable Effectiveness of RNNs](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+* [Illustrated Guide to LSTMs and GRUs](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
+* [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
+## **Week 9: LSTMs, Seq2Seq w/ Attn**
+* [Tutorial on LSTMs: A Computational Perspective](https://towardsdatascience.com/tutorial-on-lstm-a-computational-perspective-f3417442c2cd)
+* [Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
+* [Seq2Seq with Attention and Beam Search](https://guillaumegenthial.github.io/sequence-to-sequence.html)
+
+## **Week 10: Attention **
+* [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/)
+* [Attention? Attention!](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html#a-family-of-attention-mechanisms)
+* [Attention is all you need](https://www.youtube.com/watch?v=iDulhoQ2pro)
+
+Optional:
+* [Intuitive Understanding of Attention Mechanism in Deep Learning](https://towardsdatascience.com/intuitive-understanding-of-attention-mechanism-in-deep-learning-6c9482aecf4f)
+* [NLP FROM SCRATCH: TRANSLATION WITH A SEQUENCE TO SEQUENCE NETWORK AND ATTENTION](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
+* [NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE](https://arxiv.org/pdf/1409.0473.pdf)
+  
+## **Week 11: Implementation of Seq2Seq **
+
 ## **Other Resources**
 
 ### **Books**
@@ -91,6 +125,8 @@ Questions:
 ### **Articles+**
 - [A Primer in BERTology: What we know about how BERT works](https://arxiv.org/abs/2002.12327)
 - [Awesome NLP](https://github.com/keon/awesome-nlp)
+- [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
+- [The Illustrated BERT, ELMo, and co.](http://jalammar.github.io/illustrated-bert/)
 
 ### **Blogs**:
 * [Distill](https://distill.pub/)
